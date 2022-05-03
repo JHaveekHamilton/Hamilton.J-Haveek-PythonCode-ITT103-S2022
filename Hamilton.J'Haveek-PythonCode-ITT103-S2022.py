@@ -3,7 +3,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 #Author: J'Haveek Hamilron
 #Date Created: April 30, 2022
 #COurse: ITT103
-#Purpose: To calculate and print the commission recived by a salesperson
+#Purpose: To calculate and print the commission received by a salesperson
 
 switch_exit = 1
 while switch_exit == 1:
